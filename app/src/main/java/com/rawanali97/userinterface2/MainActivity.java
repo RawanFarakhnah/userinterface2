@@ -29,7 +29,7 @@ public class MainActivity extends AppCompatActivity {
             }
             printInfo(info);
         }
-
+        //Toste Massege .....
         private void printInfo(String info) {
             Toast.makeText(this, info,
                     Toast.LENGTH_SHORT).show();
